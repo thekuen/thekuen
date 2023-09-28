@@ -1,5 +1,6 @@
-<h1 align="center">👋哈囉 , 我是 昆鋒</h1>
-<h3 align="center">實際參與 Ruby on Rails 開發的專案經驗，包括復刻Cakeresume網站，這不僅讓我深入了解了框架的核心概念，還讓我能夠解決各種複雜的挑戰，各種套件配合以及資料的處理。</h3>
+<h1 align="center">👋哈囉 ， 我是昆鋒</h1>
+<h3 align="center">決心成為全端工程師的一份子，敲打鍵盤一步一步構建程式碼，致力於讓網站更美好。</h3>
+<p>持續學習新技能讓今天的自己比昨天的自己更進步，我的前端技能包括JAVASCRIPT、HTML、CSS、以及我喜愛的CSS框架Tailwind；同時，我也具備後端開發經驗，主要使用Ruby on Rails框架。實際參與Ruby on Rails開發的專案經驗，包括復刻Cakeresume網站，這不僅讓我深入了解了框架的核心概念，還讓我能夠解決各種複雜的挑戰，各種套件配合以及資料的處理。</p>
 
 - 🌱 持續提升和精進 **Ruby on rails**
 
