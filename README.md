@@ -1,9 +1,9 @@
-<h1 align="center">哈囉 👋, 我是 昆鋒</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋哈囉 , 我是 昆鋒</h1>
+<h3 align="center">實際參與 Ruby on Rails 開發的專案經驗，包括復刻Cakeresume網站，這不僅讓我深入了解了框架的核心概念，還讓我能夠解決各種複雜的挑戰，各種套件配合以及資料的處理。</h3>
 
-- 🌱 I’m currently learning **Ruby on rails**
+- 🌱 持續提升和精進 **Ruby on rails**
 
-- 📫 How to reach me **thekuen@gmail.com**
+- 📫 有任何疑問，歡迎聯絡我 **thekuen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
